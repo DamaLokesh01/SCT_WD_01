@@ -1,1 +1,1 @@
-# SCT_WD_01
+Created Responsive Landing Page using HTML, CSS, JS
